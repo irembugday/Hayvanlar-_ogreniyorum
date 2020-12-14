@@ -1,0 +1,10 @@
+C:\Users\irem buğday\Desktop\vize_odevim\vize_odevim\bin\Debug\vize_odevim.exe.config
+C:\Users\irem buğday\Desktop\vize_odevim\vize_odevim\bin\Debug\vize_odevim.exe
+C:\Users\irem buğday\Desktop\vize_odevim\vize_odevim\bin\Debug\vize_odevim.pdb
+C:\Users\irem buğday\Desktop\vize_odevim\vize_odevim\obj\Debug\vize_odevim.csprojAssemblyReference.cache
+C:\Users\irem buğday\Desktop\vize_odevim\vize_odevim\obj\Debug\vize_odevim.Form1.resources
+C:\Users\irem buğday\Desktop\vize_odevim\vize_odevim\obj\Debug\vize_odevim.Properties.Resources.resources
+C:\Users\irem buğday\Desktop\vize_odevim\vize_odevim\obj\Debug\vize_odevim.csproj.GenerateResource.cache
+C:\Users\irem buğday\Desktop\vize_odevim\vize_odevim\obj\Debug\vize_odevim.csproj.CoreCompileInputs.cache
+C:\Users\irem buğday\Desktop\vize_odevim\vize_odevim\obj\Debug\vize_odevim.exe
+C:\Users\irem buğday\Desktop\vize_odevim\vize_odevim\obj\Debug\vize_odevim.pdb

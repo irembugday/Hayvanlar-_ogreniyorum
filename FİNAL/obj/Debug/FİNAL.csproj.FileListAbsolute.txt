@@ -1,0 +1,28 @@
+C:\Users\irem buğday\Desktop\FİNAL\FİNAL\bin\Debug\FİNAL.exe.config
+C:\Users\irem buğday\Desktop\FİNAL\FİNAL\bin\Debug\FİNAL.exe
+C:\Users\irem buğday\Desktop\FİNAL\FİNAL\bin\Debug\FİNAL.pdb
+C:\Users\irem buğday\Desktop\FİNAL\FİNAL\obj\Debug\FİNAL.csprojAssemblyReference.cache
+C:\Users\irem buğday\Desktop\FİNAL\FİNAL\obj\Debug\FİNAL.Form1.resources
+C:\Users\irem buğday\Desktop\FİNAL\FİNAL\obj\Debug\FİNAL.Properties.Resources.resources
+C:\Users\irem buğday\Desktop\FİNAL\FİNAL\obj\Debug\FİNAL.csproj.GenerateResource.cache
+C:\Users\irem buğday\Desktop\FİNAL\FİNAL\obj\Debug\FİNAL.csproj.CoreCompileInputs.cache
+C:\Users\irem buğday\Desktop\FİNAL\FİNAL\obj\Debug\FİNAL.exe
+C:\Users\irem buğday\Desktop\FİNAL\FİNAL\obj\Debug\FİNAL.pdb
+C:\Users\irem buğday\Desktop\FİNAL\FİNAL\obj\Debug\FİNAL.HAYVAN_SESLERİ.resources
+C:\Users\irem buğday\Desktop\FİNAL\FİNAL\obj\Debug\FİNAL.kaynak.resources
+C:\Users\irem buğday\Desktop\FİNAL\FİNAL\obj\Debug\FİNAL.İNGİLİZCE_HAYVANLAR.resources
+C:\Users\irem buğday\Desktop\FİNAL\FİNAL\obj\Debug\FİNAL.kaynak2.resources
+C:\Users\irem buğday\Desktop\ileri prog\FİNAL\FİNAL\bin\Debug\FİNAL.exe.config
+C:\Users\irem buğday\Desktop\ileri prog\FİNAL\FİNAL\bin\Debug\FİNAL.exe
+C:\Users\irem buğday\Desktop\ileri prog\FİNAL\FİNAL\bin\Debug\FİNAL.pdb
+C:\Users\irem buğday\Desktop\ileri prog\FİNAL\FİNAL\obj\Debug\FİNAL.csprojAssemblyReference.cache
+C:\Users\irem buğday\Desktop\ileri prog\FİNAL\FİNAL\obj\Debug\FİNAL.Form1.resources
+C:\Users\irem buğday\Desktop\ileri prog\FİNAL\FİNAL\obj\Debug\FİNAL.HAYVAN_SESLERİ.resources
+C:\Users\irem buğday\Desktop\ileri prog\FİNAL\FİNAL\obj\Debug\FİNAL.kaynak.resources
+C:\Users\irem buğday\Desktop\ileri prog\FİNAL\FİNAL\obj\Debug\FİNAL.kaynak2.resources
+C:\Users\irem buğday\Desktop\ileri prog\FİNAL\FİNAL\obj\Debug\FİNAL.Properties.Resources.resources
+C:\Users\irem buğday\Desktop\ileri prog\FİNAL\FİNAL\obj\Debug\FİNAL.İNGİLİZCE_HAYVANLAR.resources
+C:\Users\irem buğday\Desktop\ileri prog\FİNAL\FİNAL\obj\Debug\FİNAL.csproj.GenerateResource.cache
+C:\Users\irem buğday\Desktop\ileri prog\FİNAL\FİNAL\obj\Debug\FİNAL.csproj.CoreCompileInputs.cache
+C:\Users\irem buğday\Desktop\ileri prog\FİNAL\FİNAL\obj\Debug\FİNAL.exe
+C:\Users\irem buğday\Desktop\ileri prog\FİNAL\FİNAL\obj\Debug\FİNAL.pdb
